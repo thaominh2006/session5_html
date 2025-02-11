@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(229, 226, 226);
+}
+h1{
+    text-align: center;
+}
+th{
+    background-color: rgb(57, 57, 229);
+    color: white;
+
+}
+table{
+    width: 100%;
+}
+td{
+    text-align: center;
+}
+.td_2{
+    background-color: white;
+    color: black;
+}
+.td_4{
+    background-color: white;
+    color: black;
+}
+.nut_1{
+    background-color: rgb(62, 188, 62);
+    color: white;
+    cursor: pointer;
+}
+.nut_2{
+    background-color: rgb(207, 207, 73);
+    color: black;
+    cursor: pointer;
+}
+.nut_3{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
