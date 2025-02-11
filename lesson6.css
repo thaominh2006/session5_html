@@ -1,0 +1,57 @@
+b {
+    font-size: 30px;
+}
+
+span {
+    background-color: rgb(230, 226, 226);
+    color: rgb(255, 39, 39);
+}
+
+.center {
+    text-align: center;
+    border: 4px solid green;
+    font-weight: bold;
+    height: 50px;
+    line-height: 50px;
+}
+
+pre {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    padding: 5px;
+    color: rgb(34, 31, 31);
+    border-radius: 4px;
+    border-left: 10px solid green;
+    
+}
+
+value {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+div {
+    background-color: rgb(213, 208, 208);
+}
+
+h2 {
+    padding: 10px;
+}
+
+.btn-container {
+    padding: 10px;
+}
+
+button {
+    border: none;
+    background-color: #01ad6f;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 8px;
+}
